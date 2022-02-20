@@ -12,10 +12,10 @@
 
 **Cientista de dados** com foco em análise estatística e pré-processamento de dados, além do desenvolvimento de modelos de machine learning e demais processo de desenvolvimento que apoiem a equipe na melhoria dos produtos e serviços.
 
-- **Contatos:**
+- **Contato:**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-pereira-dos-santos-07057b180///)](https://www.linkedin.com/in/mateus-pereira-dos-santos-07057b180/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mateussantos@alu.ufc.br)](mateussantos@alu.ufc.br)
+
   
  <br>
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4740rz9e6w31gdjhvo5qn5w61d9tldssao07kv0jod&rid=giphy.gif&ct=g" width="500" height="320"/>
