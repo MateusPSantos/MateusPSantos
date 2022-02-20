@@ -22,9 +22,9 @@
 <br>
 <br>
 
- ## 🚀 **Linguagens e Ferramentas:**
+ ## **Linguagens e Ferramentas:**
 
- #### 💻 Uso diário:
+ #### - **Uso diário:**
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
  ![SQL Server](https://img.shields.io/badge/SQL%20-Server-black)
@@ -33,7 +33,7 @@
  ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
  ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
  
- #### 🎲 Ciência de dados:
+ #### - **Ciência de dados:**
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
  ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
  ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
@@ -42,12 +42,12 @@
 
 
  
- #### 📚 Tenho conhecimento básico:
+ #### - **Tenho conhecimento básico:**
  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=Mongodb)
  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
  ![Tableau](https://img.shields.io/badge/-Tableau-black?style=plastic&logo=Tableau)
  
- #### 🌱 Estou aprendendo:
+ #### - **Estou aprendendo:**
  ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=Apache-Spark)
  ![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=Databricks)
  ![Hadoop](https://img.shields.io/badge/-Hadoop-black?style=flat-square&logo=Apache-Hadoop)
