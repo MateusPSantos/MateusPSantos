@@ -6,7 +6,7 @@
 
 
 
- Eu sou **Mateus Santos**,  Cientista de dados com forte formação em Matemática, Estatística e Computação. Mestrando em Inteligência Computacional e Otimização na Universidade Federal do Ceará (UFC), com bacharelado em Matemática Aplicada com ênfase em Pesquisa Operacional na UFC.
+ Eu sou **Mateus Santos**,  Cientista de dados com forte conhecimento em Matemática, Estatística e Computação. Mestrando em Inteligência Computacional e Otimização na Universidade Federal do Ceará (UFC), com bacharelado em Matemática Aplicada com ênfase em Pesquisa Operacional na UFC.
 
 
 
