@@ -1,6 +1,6 @@
 ### "A descoberta consiste em ver o que todo mundo viu e pensar o que ninguém pensou. (A. Szent-Gyorgyi)"
 
-### Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there 
 
 
 
