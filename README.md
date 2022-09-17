@@ -73,9 +73,6 @@
 
 <b> ⚡ Principais Repositórios</b>:
 
-<a href="https://github.com/MateusPSantos/DataScience">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MateusPSantos&repo=DataScience&theme=dark" />
-</a>
 
 <a href="https://github.com/MateusPSantos/Optimization">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MateusPSantos&repo=Optimization&theme=dark" />
