@@ -31,15 +31,17 @@
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
  ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
  ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
- ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
  ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=Plotly)
+ ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
+ ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+ 
+ 
 
 
  
  #### - **Tenho conhecimento básico:**
 
  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
- ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
  ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
  
