@@ -80,5 +80,5 @@
 </a>
 
 <a href="https://github.com/MateusPSantos/Mestrado">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MateusPSantos&repo=Optimization&theme=dark" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MateusPSantos&repo=Mestrado&theme=dark" />
 </a>
