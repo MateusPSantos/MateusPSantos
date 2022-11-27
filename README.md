@@ -24,7 +24,7 @@
 
  ## **Linguagens e Ferramentas:**
 
- #### - **Uso diário:**
+ 
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![SQL Server](https://img.shields.io/badge/SQL%20-Server-black)
  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
@@ -34,7 +34,7 @@
  ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=Plotly)
  ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
  ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
- 
+
  
 
 
