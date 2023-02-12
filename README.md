@@ -6,11 +6,12 @@
 
 
 
- Eu sou **Mateus Santos**,  Cientista de dados com forte conhecimento em Matemática, Estatística e Computação. Mestrando em Inteligência Computacional e Otimização na Universidade Federal do Ceará (UFC), com bacharelado em Matemática Aplicada com ênfase em Pesquisa Operacional na UFC.
-
+ Eu sou **Mateus Santos**,  Cientista de dados com forte conhecimento em Matemática, Estatística e Computação. Mestrando em Inteligência Computacional e Otimização na Universidade Federal do Ceará (UFC), com bacharelado em Matemática Aplicada com ênfase em Pesquisa Operacional na UFC. Experiência acadêmica na resolução de Problemas de Pesquisa Operacional(PO), trabalhei com problemas de otimização na graduação e mestrado utilizado métodos de programação inteira e métodos heurísticos. Tenho duas publicações no Simpósio Brasileiro de Pesquisa Operacional (SBPO)
 
 
 **Cientista de dados** com foco em análise estatística e pré-processamento de dados, além do desenvolvimento de modelos de machine learning e demais processo de desenvolvimento que apoiem a equipe na melhoria dos produtos e serviços.
+
+
 
 - **Contato:**
 
