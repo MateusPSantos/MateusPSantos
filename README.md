@@ -6,7 +6,7 @@
 
 
 
- Eu sou **Mateus Santos**,  Cientista de dados com forte conhecimento em Matemática, Estatística e Computação. Mestrando em Inteligência Computacional e Otimização na Universidade Federal do Ceará (UFC), com bacharelado em Matemática Aplicada com ênfase em Pesquisa Operacional na UFC. Experiência acadêmica na resolução de Problemas de Pesquisa Operacional(PO), trabalhei com problemas de otimização na graduação e mestrado utilizado métodos de programação linear, programação inteira, programação não linear e métodos de otimização combinatória. Tenho duas publicações no Simpósio Brasileiro de Pesquisa Operacional (SBPO):
+ Eu sou **Mateus Santos**,  Cientista de dados com forte conhecimento em Matemática, Estatística e Computação. Mestrando em Inteligência Computacional e Otimização na Universidade Federal do Ceará (UFC), com bacharelado em Matemática Aplicada com ênfase em Pesquisa Operacional na UFC. Experiência acadêmica na resolução de Problemas de Pesquisa Operacional(PO), trabalhei com problemas de otimização na graduação e mestrado utilizado métodos de programação linear, programação inteira, programação não linear, programação dinâmica, métodos de otimização combinatória e etc. Tenho duas publicações no Simpósio Brasileiro de Pesquisa Operacional (SBPO):
  *  https://proceedings.science/sbpo-2020/papers/o-problema-do-caixeiro-comprador-capacitado--uma-abordagem-de-resolucao-aproximada-e-exata-
  *  https://proceedings.science/sbpo/sbpo-2022/trabalhos/formulacoes-para-o-problema-de-dimensionamento-de-lotes-capacitado-com-retorno?lang=pt-br
 
